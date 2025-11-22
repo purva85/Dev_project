@@ -9,6 +9,6 @@ resource "aws_instance" "my_ec2" {
   key_name      = "ipat-eunorth1"
 
   tags = {
-    Name = "firststsproject"
+    Name = "firststsproject_1"
   }
 }
