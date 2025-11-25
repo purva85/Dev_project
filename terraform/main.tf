@@ -9,6 +9,6 @@ resource "aws_instance" "my_ec2" {
   key_name      = "purva_key"
 
   tags = {
-    Name = "purva-firststsproject_4"
+    Name = "purva-firststsproject_5"
   }
 }
