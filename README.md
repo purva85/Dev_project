@@ -39,7 +39,7 @@ Application available on browser using EC2 public IP
 
 How to Run This Project
 1. Clone the Repository
-git clone https://github.com/purva85/DevOps-Automation.git
+git clone https://github.com/purva85/name_.git
 cd DevOps-Automation
 
 2. Configure Terraform
